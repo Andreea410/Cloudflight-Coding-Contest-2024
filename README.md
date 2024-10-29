@@ -1,1 +1,1 @@
-# CCC2025-solutions
+# CCC2024-solutions
